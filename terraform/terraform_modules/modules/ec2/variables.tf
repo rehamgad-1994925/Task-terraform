@@ -1,0 +1,10 @@
+variable "Name_tag"{}
+variable "number"{}
+variable "sg_web"{}
+variable "private1"{}
+variable "private2"{}
+variable "public1"{}
+variable "sg_bastion"{}
+variable "vpc_id"{}
+variable "sg_web_id"{}
+variable "sg_bastion_id"{}
